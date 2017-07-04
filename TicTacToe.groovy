@@ -1,0 +1,5 @@
+println "X |   |  "
+println "- + - + -"
+println "  | O |  "
+println "- + - + -"
+println "  |   |  "
