@@ -10,3 +10,5 @@ X |   |
 - + - + -
   |   |  
 ```
+
+Beginne mit einer Funktion zur Ausgabe des Spielfeldes.
